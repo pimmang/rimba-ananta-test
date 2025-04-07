@@ -10,7 +10,7 @@ Proyek ini adalah RESTful API yang dibangun menggunakan **Laravel 12** untuk men
 - Memperbarui User
 - Menghapus User
 
-API ini juga dilengkapi dengan middleware validasi dan pencatatan log request, serta pengujian unit berbasis **Jest** yang ditulis dalam proyek terpisah.
+API ini juga dilengkapi dengan middleware validasi dan pencatatan log request, dokumentasi API dengan swagger, serta pengujian unit berbasis **Jest** yang ditulis dalam proyek terpisah.
 
 ---
 
